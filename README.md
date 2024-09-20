@@ -35,7 +35,8 @@
 
 <br></br>
 <h2><strong>Build your own Pizza and Order </strong></h2>
- 
+ <img src="https://github.com/sameena93/project_images/blob/main/pizza_point.jpeg" alt="Project Screenshot" width="500" height="300">
+
 [View the project notebook](https://github.com/sameena93/multilprojects/blob/Sameena/Project2_mujawar_s.ipynb)
 
 <p>This project is a Pizza Ordering System that allows users to select the size of a pizza, customize it with toppings, and calculate the final cost of the order. The system is designed to be interactive and user-friendly, giving users options to modify their selections (both pizza size and toppings) and displaying the total cost of their order.</p>
@@ -47,7 +48,7 @@
 
 https://github.com/sameena93/project_images/raw/main/Screenshot%202024-09-19%20201355.png
 
-![Project Screenshot](https://github.com/sameena93/project_images/raw/main/Screenshot%202024-09-19%20201355.png)
+   
 
 </body>
 </html>
