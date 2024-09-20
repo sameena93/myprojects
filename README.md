@@ -57,9 +57,21 @@
 
  <h3><storng>Technnologies Used:</storng></h3>
  <ul>
-     <li><strong>MySQL: Database management system for data storage.</strong> </li>
-     <li><strong>SQL: Language used for querying and managing the database.</strong> </li>
+     <li><strong>MySQL: </strong>Database management system for data storage. </li>
+     <li><strong>SQL:</strong> Language used for querying and managing the database. </li>
  </ul>
+<h3><strong>Key Features</strong></h3> 
+<ul>
+<li><strong>Data Organization:</strong> Multiple tables for movies, actors, genres, and ratings.</li>
+<li><strong>Advanced Queries:</strong> Utilizes views, stored procedures, functions, and triggers for efficient data manipulation.</li>
+<li><strong>Use Cases:</strong></li>
+    <ul>
+<li>Retrieve total movies per actor.</li>
+<li>Analyze movie trends by year and genre.</li>
+<li>Validate data entry and maintain data integrity.</li>
+<li>Generate reports on movie earnings and ratings.</li></ul>
+    
+</ul>
 
 </body>
 </html>
