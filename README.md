@@ -14,7 +14,7 @@
 
 <h2><strong>Death Rate Prediction by Cardiovascular Disease using Heart Failure Data from Kaggle</strong></h2>
 
-<p><a href="https://github.com/your-username/your-repo-name/blob/main/Final_project_sameena_mujawar-checkpoint.ipynb" target="_blank">View the project notebook</a>
+<p><a href="[https://github.com/your-username/your-repo-name/blob/main/Final_project_sameena_mujawar-checkpoint.ipynb](https://github.com/sameena93/multilprojects/blob/Sameena/Final_project_sameena_mujawar-checkpoint.ipynb)" target="_blank">View the project notebook</a>
 </p>
 <ul>
   <li>To develop a predictive model that can accurately identify the likelihood of heart failure-related deaths based on a set of clinical and demographic features. The primary aim is to improve early intervention and patient care by leveraging machine learning techniques to predict adverse outcomes in patients with heart failure.
