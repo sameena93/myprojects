@@ -51,7 +51,7 @@
  
   <img src="https://github.com/sameena93/project_images/blob/main/SQL.jpeg" alt="Project Screenshot" width="500" height="300">
 
-[View the project notebook](https://github.com/sameena93/multilprojects/blob/Sameena/SQL%20PROJECT%20FILE%20.sql)
+[View the project notebook](https://github.com/sameena93/multilprojects/blob/Sameena/SQL%20PROJECT%20FILE%20.sq)
 
  <p>This project focuses on managing and querying a movie database using SQL views, procedures, functions, and triggers. The project involves a detailed structure for storing movie data, actors, genres, ratings, and more, enabling complex querying and data manipulation tasks. </p>
 
@@ -70,9 +70,31 @@
 <li>Analyze movie trends by year and genre.</li>
 <li>Validate data entry and maintain data integrity.</li>
 <li>Generate reports on movie earnings and ratings.</li></ul>
-    
 </ul>
 
+
+<h2><strong>Tips Dataset Analysis and SVR Model</strong></h2>
+
+
+[View the project notebook](https://github.com/sameena93/multilprojects/blob/Sameena/Support%20Vector%20Machine%20using%20GridSearchCV%20on%20Tips%20dataset.ipynb)
+
+
+<p>This project analyzes the tips dataset from the Seaborn library to predict total bills based on various features such as tip amount, customer demographics (gender, smoker status), and dining details (day, time, size). The analysis includes data exploration, feature encoding, and model training using Support Vector Regression (SVR).</p>
+
+<ul>
+<li><strong>Technologies Used:</strong> Python
+Seaborn
+Pandas
+Matplotlib
+Scikit-learn</li>
+    
+<li><strong>Model Training: :</strong> Utilized Support Vector Regression (SVR) to build a predictive model..</li>
+<li><strong>Model Evaluation::</strong>Assessed model performance using metrics like MAE, MSE, RMSE, and R².</li>
+    <ul>
+<li><strong>Hyperparameter Tuning:</strong> Employed GridSearchCV for optimizing SVR parameters.</li>
+    <ul>
+
+        
 </body>
 </html>
 
