@@ -2,7 +2,7 @@
 
 <h1>Machine Learning | Deep Learning | Generative AI Projects</h1>
 <h2><strong>Death Rate Prediction by Cardiovascular Disease using Heart failure data from kaggle</strong></h2>
-[https://github.com/sameena93/multilprojects/blob/Sameena/Final_project_sameena_mujawar-checkpoint.ipynb](https://github.com/sameena93/multilprojects/blob/Sameena/Final_project_sameena_mujawar-checkpoint.ipynb)
+[Final_project_sameena_mujawar-checkpoint.ipynb]
 <ul>
   <li>To develop a predictive model that can accurately identify the likelihood of heart failure-related deaths based on a set of clinical and demographic features. The primary aim is to improve early intervention and patient care by leveraging machine learning techniques to predict adverse outcomes in patients with heart failure.
 <li>
