@@ -100,7 +100,27 @@ Scikit-learn
  <br>
 
  <h2><strong>Employee Dataset Analysis and Prediction</strong></h2>
-     
+ 
+  <img src="https://github.com/sameena93/project_images/blob/main/svr.png" alt="Project Screenshot" width="500" height="300">
+
+[View the project notebook](https://github.com/sameena93/multilprojects/blob/Sameena/decisiontree-classifier-on-employees-dataset%20(1).ipynb)
+<p>This project performs data analysis and predictive modeling on an employee dataset.</p>
+
+
+<ul>
+<li><strong>Technologies Used:</strong> Python
+Seaborn
+Pandas
+Matplotlib
+Scikit-learn
+    
+<li><strong>Model Training: :</strong> Decision Tree Classifier for predicting employee leave status.</li>
+<li><strong>Model Evaluation::</strong>F1 Score, Precision,Recall,Accuracy.</li>
+   
+<li><strong>Hyperparameter Tuning:</strong>GridSearchCV for hyperparameter tuning to optimize model performance.</li>
+
+    </ul>
+   
 </body>
 </html>
 
