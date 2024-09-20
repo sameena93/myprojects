@@ -38,7 +38,7 @@
     <li>Tools: Python OOP Approach, Text file Handling like read write, External Libraries for UI formatting</li>
     <li>This project demonstrates how to build a menu-driven, interactive console application for a pizza ordering system with Python. The focus is on order management, pricing calculations, user-friendly interaction, and basic persistence using text files.
 </li>
-</ul>
+</ul> 
 
 
 
