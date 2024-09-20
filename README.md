@@ -27,7 +27,7 @@
        <li> Decision Tree CV excels in terms of F1 Score at 84.3%, offering a well-rounded performance.</li>
        <li>Random Forest CV achieves the highest accuracy at 93.6%, and a competitive F1 Score of 93%, making it a strong candidate.</li>
        <li>Support Vector Machine CV provides a good balance between precision and recall.</li>
-   <p>Decision Tree CV may be preferred based on higher F1score, while Random Forest CV is a solid choice for high accuracy. Logistic Regression offers simplicity and interpretability, and Support Vector Machine CV gives the balance between precision and recall.</p>
+   <p>Decision Tree CV may be preferred based on higher F1score, while Random Forest CV is a solid choice for high accuracy. Logistic Regression offers simplicity and interpretability, and Support Vector Machine CV gives the balance between precision and recall.</p></ul>
 
 
 
