@@ -33,7 +33,7 @@
 
 
 
-<br></br>
+<br>
 <h2><strong>Build your own Pizza and Order </strong></h2>
  <img src="https://github.com/sameena93/project_images/blob/main/pizza_point.jpeg" alt="Project Screenshot" width="500" height="300">
 
@@ -46,7 +46,7 @@
 </li>
 </ul> 
 
-
+<br>
  <h2><strong>Movie Database Project - SQL</strong></h2>
  
   <img src="https://github.com/sameena93/project_images/blob/main/SQL.jpeg" alt="Project Screenshot" width="500" height="300">
@@ -72,7 +72,7 @@
 <li>Generate reports on movie earnings and ratings.</li></ul>
 </ul>
 
-
+<br>
 <h2><strong>Tips Dataset Analysis and SVR Model</strong></h2>
 
 
