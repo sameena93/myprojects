@@ -32,8 +32,8 @@
 
 <br></br>
 <h2><strong>Build your own Pizza and Order </strong>
+<img src="[https://github.com/your-username/your-repo-name/blob/main/images/image.png" alt="Alt text](https://github.com/sameena93/project_images/blob/main/Screenshot%202024-09-19%20201355.png)" style="width:300px;">
 
-[](Screenshot 2024-09-19 201355.png)
 
 </body>
 </html>
