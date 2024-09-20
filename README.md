@@ -104,6 +104,7 @@ Scikit-learn
   <img src="https://github.com/sameena93/project_images/blob/main/decisiontree.jpeg" alt="Project Screenshot" width="500" height="300">
 
 [View the project notebook](https://github.com/sameena93/multilprojects/blob/Sameena/decisiontree-classifier-on-employees-dataset%20(1).ipynb)
+
 <p>This project analyzes employee data to predict whether an employee will take leave based on various features such as education, joining year, city, age, gender, and experience. The goal is to help organizations better understand employee behavior and improve workforce management.</p>
 
 
@@ -116,7 +117,6 @@ Scikit-learn
    
 <li><strong>Hyperparameter Tuning:</strong>GridSearchCV for hyperparameter tuning to optimize model performance.</li>
 
-    </ul>
    
 </body>
 </html>
