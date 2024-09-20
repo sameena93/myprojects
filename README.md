@@ -9,6 +9,8 @@
 <body>
 
 <h1>Machine Learning | Deep Learning | Generative AI Projects</h1>
+<h1>Welcome to my project portfolio! This repository showcases various data science, machine learning, and AI projects I’ve worked on. Each project demonstrates a different aspect of my skills in data analysis, machine learning, AI models, and data visualization.
+</h1>
 
 <h2><strong>Death Rate Prediction by Cardiovascular Disease using Heart Failure Data from Kaggle</strong></h2>
 
