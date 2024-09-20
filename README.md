@@ -9,10 +9,13 @@
 <body>
 
 <h1>Machine Learning | Deep Learning | Generative AI Projects</h1>
+
 <p>Welcome to my project portfolio! This repository showcases various data science, machine learning, and AI projects I’ve worked on. Each project demonstrates a different aspect of my skills in data analysis, machine learning, AI models, and data visualization.
 </p>
 
 <h2><strong>Death Rate Prediction by Cardiovascular Disease using Heart Failure Data from Kaggle</strong></h2>
+
+   <img src="https://github.com/sameena93/project_images/raw/main/Screenshot%202024-09-19%20201355.png" alt="Project Screenshot" width="500" height="300">
 
 [View the project notebook](https://github.com/sameena93/multilprojects/blob/Sameena/Final_project_sameena_mujawar-checkpoint.ipynb)
 
@@ -32,8 +35,7 @@
 
 <br></br>
 <h2><strong>Build your own Pizza and Order </strong></h2>
-    <img src="https://github.com/sameena93/project_images/raw/main/Screenshot%202024-09-19%20201355.png" alt="Project Screenshot" width="500" height="300">
-
+ 
 [View the project notebook](https://github.com/sameena93/multilprojects/blob/Sameena/Project2_mujawar_s.ipynb)
 
 <p>This project is a Pizza Ordering System that allows users to select the size of a pizza, customize it with toppings, and calculate the final cost of the order. The system is designed to be interactive and user-friendly, giving users options to modify their selections (both pizza size and toppings) and displaying the total cost of their order.</p>
