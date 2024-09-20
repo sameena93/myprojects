@@ -51,7 +51,7 @@
  
   <img src="https://github.com/sameena93/project_images/blob/main/SQL.jpeg" alt="Project Screenshot" width="500" height="300">
 
-[View the project notebook](https://github.com/sameena93/multilprojects/blob/Sameena/SQL%20PROJECT%20FILE%20.sq)
+[View the project notebook](https://github.com/sameena93/multilprojects/blob/Sameena/SQL%20PROJECT%20FILE%20.sql)
 
  <p>This project focuses on managing and querying a movie database using SQL views, procedures, functions, and triggers. The project involves a detailed structure for storing movie data, actors, genres, ratings, and more, enabling complex querying and data manipulation tasks. </p>
 
