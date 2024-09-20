@@ -41,7 +41,7 @@
 
 <p>This project is a Pizza Ordering System that allows users to select the size of a pizza, customize it with toppings, and calculate the final cost of the order. The system is designed to be interactive and user-friendly, giving users options to modify their selections (both pizza size and toppings) and displaying the total cost of their order.</p>
 <ul>
-    <li>Tools: Python OOP Approach, Text file Handling like read write, External Libraries for UI formatting</li>
+    <li>Tools: Python ,OOP Approach, Exception Handling, Text file Handling like read write, External Libraries for UI formatting</li>
     <li>This project demonstrates how to build a menu-driven, interactive console application for a pizza ordering system with Python. The focus is on order management, pricing calculations, user-friendly interaction, and basic persistence using text files.
 </li>
 </ul> 
