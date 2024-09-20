@@ -16,5 +16,5 @@
    <p>Decision Tree CV may be preferred based on higher F1score, while Random Forest CV is a solid choice for high accuracy. Logistic Regression offers simplicity and interpretability, and Support Vector Machine CV gives the balance between precision and recall.</p>
 
      </ul>
-  </li>
-</ul>
+ 
+
