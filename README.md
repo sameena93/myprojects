@@ -55,6 +55,12 @@
 
  <p>This project focuses on managing and querying a movie database using SQL views, procedures, functions, and triggers. The project involves a detailed structure for storing movie data, actors, genres, ratings, and more, enabling complex querying and data manipulation tasks. </p>
 
+ <h3><storng>Technnologies Used:</storng></h3>
+ <ul>
+     <li><strong>MySQL: Database management system for data storage.</strong> </li>
+     <li><strong>SQL: Language used for querying and managing the database.</strong> </li>
+ </ul>
+
 </body>
 </html>
 
