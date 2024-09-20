@@ -76,6 +76,9 @@
 <h2><strong>Tips Dataset Analysis and SVR Model</strong></h2>
 
 
+<img src="https://github.com/sameena93/project_images/blob/main/svr.png" alt="Project Screenshot" width="500" height="300">
+
+
 [View the project notebook](https://github.com/sameena93/multilprojects/blob/Sameena/Support%20Vector%20Machine%20using%20GridSearchCV%20on%20Tips%20dataset.ipynb)
 
 
@@ -86,13 +89,13 @@
 Seaborn
 Pandas
 Matplotlib
-Scikit-learn</li>
+Scikit-learn
     
 <li><strong>Model Training: :</strong> Utilized Support Vector Regression (SVR) to build a predictive model..</li>
 <li><strong>Model Evaluation::</strong>Assessed model performance using metrics like MAE, MSE, RMSE, and R².</li>
-    <ul>
+   
 <li><strong>Hyperparameter Tuning:</strong> Employed GridSearchCV for optimizing SVR parameters.</li>
-    <ul>
+    </ul>
 
         
 </body>
