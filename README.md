@@ -29,8 +29,7 @@
        <li>Support Vector Machine CV provides a good balance between precision and recall.</li>
    <p>Decision Tree CV may be preferred based on higher F1score, while Random Forest CV is a solid choice for high accuracy. Logistic Regression offers simplicity and interpretability, and Support Vector Machine CV gives the balance between precision and recall.</p>
 
-  <!DOCTYPE html>
-<html lang="en">
+
 
 
 <h2><strong>Build your own Pizza and Order </strong>
