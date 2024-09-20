@@ -31,8 +31,10 @@
 
 
 <br></br>
-<h2><strong>Build your own Pizza and Order </strong>
-    [View the project notebook](https://github.com/sameena93/multilprojects/blob/Sameena/Project2_mujawar_s.ipynb)
+<h2><strong>Build your own Pizza and Order </strong></h2>
+    
+[View the project notebook](https://github.com/sameena93/multilprojects/blob/Sameena/Project2_mujawar_s.ipynb)
+
 <p>This project is a Pizza Ordering System that allows users to select the size of a pizza, customize it with toppings, and calculate the final cost of the order. The system is designed to be interactive and user-friendly, giving users options to modify their selections (both pizza size and toppings) and displaying the total cost of their order.</p>
 <ul>
     <li>Tools: Python OOP Approach, Text file Handling like read write, External Libraries for UI formatting</li>
