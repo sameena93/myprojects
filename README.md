@@ -8,5 +8,5 @@
   <li>Machine Learning Models: Logistic Regressio, Random Forest, Decision Tree, Support Vector Machine</li>
   <li>Evaluation Parameter: P-value,F1 Score, Precision,Recall,Accuracy, confusion matrix.</li>
   <li>Conclusion:</li>
-  (https://github.com/sameena93/multilprojects/blob/Sameena/Final_project_sameena_mujawar-checkpoint.ipynb)[https://github.com/sameena93/multilprojects/blob/Sameena/Final_project_sameena_mujawar-checkpoint.ipynb]>
+  (https://github.com/sameena93/multilprojects/blob/Sameena/Final_project_sameena_mujawar-checkpoint.ipynb)[https://github.com/sameena93/multilprojects/blob/Sameena/Final_project_sameena_mujawar-checkpoint.ipynb]
 </ul>
