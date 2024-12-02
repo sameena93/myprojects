@@ -8,10 +8,19 @@
 </head>
 <body>
 
+
+
 <h1>Machine Learning | Deep Learning | Generative AI Projects</h1>
 
 <p>Welcome to my project portfolio! This repository showcases various data science, machine learning, and AI projects I’ve worked on. Each project demonstrates a different aspect of my skills in data analysis, machine learning, AI models, and data visualization.
 </p>
+
+
+
+<!-- <h2><strong>Predicting Academic Performance of Students</strong></h2 -->
+
+<!-- [View the project notebook](https://github.com/sameena93/student_performance) -->
+
 
 <h2><strong>Death Rate Prediction by Cardiovascular Disease using Heart Failure Data from Kaggle</strong></h2>
 
