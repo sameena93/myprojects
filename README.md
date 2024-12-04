@@ -16,7 +16,7 @@
 </p>
 
 
-
+----
 <!-- <h2><strong>Predicting Academic Performance of Students</strong></h2 -->
 
 <!-- [View the project notebook](https://github.com/sameena93/student_performance) -->
@@ -43,6 +43,7 @@
 
 
 <br>
+-----
 <h2><strong>Build your own Pizza and Order </strong></h2>
  <img src="https://github.com/sameena93/project_images/blob/main/pizza_point.jpeg" alt="Project Screenshot" width="500" height="300">
 
